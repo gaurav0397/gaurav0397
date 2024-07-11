@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @gaurav0397
-- 👀 I’m interested in Full Stack Java Development
-- 🌱 I’m currently learning Advanced Java
-- 💞️ I’m looking for a Job
+- 👀 I’m interested in Full Stack .NET Development
 - 📫 How to reach me www.linkedin.com/in/gaurav-jaiswal-0311
 
 <!---
